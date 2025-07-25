@@ -1,2 +1,1 @@
-# Landing-Page-for-a-Product-
-Lab Session
+# product Landing Page
